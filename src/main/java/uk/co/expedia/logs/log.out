@@ -1,0 +1,54 @@
+2020-04-21 23:04:662 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-21 23:04:313 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-21 23:04:386 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (1774bd63617ecb68b425837ae4038055)] -> xpath: //button[@id='header-account-menu']]
+2020-04-21 23:04:523 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (1774bd63617ecb68b425837ae4038055)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-21 23:04:712 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-21 23:04:861 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (c2d7145a4ffc80f84dc70ef4be6e215c)] -> xpath: //button[@id='header-account-menu']]
+2020-04-21 23:04:71 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (c2d7145a4ffc80f84dc70ef4be6e215c)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-21 23:04:582 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-21 23:04:432 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (3fb6854e65e39d87974b148c192517c9)] -> xpath: //button[@id='header-account-menu']]
+2020-04-21 23:04:776 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (3fb6854e65e39d87974b148c192517c9)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-21 23:04:700 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-21 23:04:811 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (0b919c8f63c07fe5fda1bd5cd6d1007a)] -> xpath: //button[@id='header-account-menu']]
+2020-04-21 23:04:981 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (0b919c8f63c07fe5fda1bd5cd6d1007a)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-21 23:04:388 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-21 23:04:88 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (a6949f0671632500ac870259bb6e5c2c)] -> xpath: //button[@id='header-account-menu']]
+2020-04-21 23:04:368 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (a6949f0671632500ac870259bb6e5c2c)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-21 23:04:554 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-21 23:04:657 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (1d10951e3c09fbb8f1b9176ec5d19fa8)] -> xpath: //button[@id='header-account-menu']]
+2020-04-21 23:04:817 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (1d10951e3c09fbb8f1b9176ec5d19fa8)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-21 23:04:655 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-21 23:04:653 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (c8dd69dbc287543cf5a60334b1e74c70)] -> xpath: //button[@id='header-account-menu']]
+2020-04-21 23:04:805 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (c8dd69dbc287543cf5a60334b1e74c70)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-22 00:04:273 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 00:04:980 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (cbc7293a22bf658d11be4202cf54c35f)] -> xpath: //button[@id='header-account-menu']]
+2020-04-22 00:04:236 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (cbc7293a22bf658d11be4202cf54c35f)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-22 00:04:353 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 00:04:563 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (8038d66982df90ca9cddc1e77bb521a6)] -> xpath: //button[@id='header-account-menu']]
+2020-04-22 00:04:719 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (8038d66982df90ca9cddc1e77bb521a6)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-22 00:04:160 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 00:04:768 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (5ff75ff892e4749e17de2ea9137eec4b)] -> xpath: //button[@id='header-account-menu']]
+2020-04-22 00:04:87 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (5ff75ff892e4749e17de2ea9137eec4b)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-22 18:04:961 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 18:04:200 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (3e8d7633e2dc8d836182f0a7e3381c8d)] -> xpath: //button[@id='header-account-menu']]
+2020-04-22 18:04:432 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (3e8d7633e2dc8d836182f0a7e3381c8d)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-22 18:04:32 INFO  SignInPage :35 - Enter password  abc123 to password field [[ChromeDriver: chrome on WINDOWS (3e8d7633e2dc8d836182f0a7e3381c8d)] -> xpath: //input[@id='gss-signin-password']]
+2020-04-22 18:04:841 INFO  SignInPage :41 -  Clicking on sign in tab[[ChromeDriver: chrome on WINDOWS (3e8d7633e2dc8d836182f0a7e3381c8d)] -> xpath: //button[@id='gss-signin-submit']]
+2020-04-22 18:04:866 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 18:04:527 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (274245ab0de2f5a546c0451c9c4e1921)] -> xpath: //button[@id='header-account-menu']]
+2020-04-22 18:04:698 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (274245ab0de2f5a546c0451c9c4e1921)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-22 18:04:199 INFO  SignInPage :29 -  Enter email abc@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (274245ab0de2f5a546c0451c9c4e1921)] -> xpath: //input[@id='gss-signin-email']]
+2020-04-22 18:04:419 INFO  SignInPage :35 - Enter password  abc123 to password field [[ChromeDriver: chrome on WINDOWS (274245ab0de2f5a546c0451c9c4e1921)] -> xpath: //input[@id='gss-signin-password']]
+2020-04-22 18:04:619 INFO  SignInPage :41 -  Clicking on sign in tab[[ChromeDriver: chrome on WINDOWS (274245ab0de2f5a546c0451c9c4e1921)] -> xpath: //button[@id='gss-signin-submit']]
+2020-04-22 18:04:586 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 18:04:08 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (b744dd46dff1cec44ad54e316b53bcbf)] -> xpath: //button[@id='header-account-menu']]
+2020-04-22 18:04:167 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (b744dd46dff1cec44ad54e316b53bcbf)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-22 18:04:803 INFO  SignInPage :29 -  Enter email abc@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (b744dd46dff1cec44ad54e316b53bcbf)] -> xpath: //input[@id='gss-signin-email']]
+2020-04-22 18:04:980 INFO  SignInPage :35 - Enter password  abc123 to password field [[ChromeDriver: chrome on WINDOWS (b744dd46dff1cec44ad54e316b53bcbf)] -> xpath: //input[@id='gss-signin-password']]
+2020-04-22 18:04:142 INFO  SignInPage :41 -  Clicking on sign in tab[[ChromeDriver: chrome on WINDOWS (b744dd46dff1cec44ad54e316b53bcbf)] -> xpath: //button[@id='gss-signin-submit']]
+2020-04-22 18:04:191 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 18:04:546 INFO  HomePage :22 - Clicking on Account link[[ChromeDriver: chrome on WINDOWS (0c9d8bc96710f6856957067c8b0209e1)] -> xpath: //button[@id='header-account-menu']]
+2020-04-22 18:04:684 INFO  AccountPage :20 -  Clicking on Signin link[[ChromeDriver: chrome on WINDOWS (0c9d8bc96710f6856957067c8b0209e1)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-22 18:04:712 INFO  SignInPage :29 -  Enter email abc@jkail.com to email field [[ChromeDriver: chrome on WINDOWS (0c9d8bc96710f6856957067c8b0209e1)] -> xpath: //input[@id='gss-signin-email']]
+2020-04-22 18:04:876 INFO  SignInPage :35 - Enter password  abc123 to password field [[ChromeDriver: chrome on WINDOWS (0c9d8bc96710f6856957067c8b0209e1)] -> xpath: //input[@id='gss-signin-password']]
+2020-04-22 18:04:995 INFO  SignInPage :41 -  Clicking on sign in tab[[ChromeDriver: chrome on WINDOWS (0c9d8bc96710f6856957067c8b0209e1)] -> xpath: //button[@id='gss-signin-submit']]
