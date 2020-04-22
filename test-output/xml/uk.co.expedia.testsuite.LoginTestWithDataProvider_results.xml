@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test With Data Provider"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.949">
+  <properties />
+  
+  
+            <testcase name="doLogin" time="2.779" classname="uk.co.expedia.testsuite.LoginTestWithDataProvider" />
+                <testcase name="doLogin" time="3.477" classname="uk.co.expedia.testsuite.LoginTestWithDataProvider" />
+                <testcase name="doLogin" time="3.693" classname="uk.co.expedia.testsuite.LoginTestWithDataProvider" />
+      
+</testsuite>

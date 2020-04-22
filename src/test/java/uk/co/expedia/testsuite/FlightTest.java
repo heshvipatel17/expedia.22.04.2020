@@ -1,5 +1,6 @@
 package uk.co.expedia.testsuite;
 
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import uk.co.expedia.pages.AccountPage;
 import uk.co.expedia.pages.FlightsPage;
@@ -14,6 +15,7 @@ public class FlightTest extends TestBase {
     FlightsPage flightsPage;
     ResultPage resultPage;
 
+@BeforeMethod(groups = {"Sanity", "Smoke", "Regression"})
 public void setUp() {
     homePage = new HomePage();
     accountPage = new AccountPage();
@@ -29,7 +31,7 @@ public void setUp() {
     and verify the same destination flight you see in search results.
 */
 
-    @Test
+    @Test(priority = 0, groups = {"Smoke", "Regression"})
     public void userShouldCheckFlightsSearch() {
         homePage.clickOnFlightsTab();
         //    alertAccept();

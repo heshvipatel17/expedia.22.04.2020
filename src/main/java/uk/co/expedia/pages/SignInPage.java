@@ -46,5 +46,10 @@ public class SignInPage extends Utility {
         verifyTextAssertMethod(_errorMessage, verifyMssage);
         log.info(" verify message " + verifyMssage + " from signin page" + _errorMessage.toString());
     }
+    public void loginToApplication(String username, String password){
+        enterEmailField(username);
+        enterPasswordField(password);
+        clickOnSignInTab();
 
+    }
 }

@@ -14,10 +14,21 @@
         <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
     </listeners>
 
-    <test name="">
+    <test name="Login Test">
         <classes>
             <class name="uk.co.expedia.testsuite.LoginTest"></class>
         </classes>
     </test>
 
+    <test name="Flights Test">
+        <classes>
+            <class name="uk.co.expedia.testsuite.FlightTest"></class>
+        </classes>
+    </test>
+
+    <test name="Login Test With Data Provider">
+        <classes>
+            <class name="uk.co.expedia.testsuite.LoginTestWithDataProvider"></class>
+        </classes>
+    </test>
 </suite>

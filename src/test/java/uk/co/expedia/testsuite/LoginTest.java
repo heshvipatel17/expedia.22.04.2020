@@ -15,7 +15,7 @@ public class LoginTest extends TestBase {
     AccountPage accountPage;
     LoadProperty loadProperty;
 
-    @BeforeMethod
+    @BeforeMethod(groups = {"Sanity", "Smoke", "Regression"})
     public void setUp() {
         homePage = new HomePage();
         signInPage = new SignInPage();
@@ -27,7 +27,7 @@ public class LoginTest extends TestBase {
         1.LoginTest - enter invalid username and password and
         click on sign in tab and verify error message.
     */
-    @Test
+    @Test(priority = 0, groups = {"Sanity", "Regression"})
     public void userShouldNotLogInWithInvalidCredintial() {
         homePage.clickOnAccountLink();
         accountPage.clickOnSignInLink();

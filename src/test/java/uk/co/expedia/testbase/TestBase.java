@@ -16,7 +16,7 @@ public class TestBase extends Utility {
     String baseUrl = loadProperty.getProperty("baseUrl");
     String browser = loadProperty.getProperty("browser");
 
-    @BeforeMethod
+    @BeforeMethod(groups = {"Regression","Smoke","Sanity"})
     public void openBrowser() {
         browserSelector.selectBrowser(browser);
         //    driver.manage().window().setPosition(new Point(-2000, 0));//display into second screen
@@ -26,8 +26,8 @@ public class TestBase extends Utility {
         driver.get(baseUrl);
     }
 
-    @AfterMethod
+    @AfterMethod (groups = {"Regression","Smoke","Sanity"})
     public void tearDown() {
-//        driver.quit();
+        driver.quit();
     }
 }
